@@ -2,5 +2,5 @@
 
 
 export const environments = {
-    baseUrl: 'https://oskarvargas23.github.io/heroesApp'
+    baseUrl: 'http://localhost:3000'
 }
