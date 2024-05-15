@@ -1,6 +1,5 @@
 
 
 export const environments = {
-  production: true,
-  baseUrl: 'https://oskarvargas23.github.io/api'
+  baseUrl: ' https://fabian-vargas.com/api/'
 }
